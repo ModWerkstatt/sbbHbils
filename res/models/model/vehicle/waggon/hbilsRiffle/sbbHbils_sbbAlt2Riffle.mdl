@@ -680,7 +680,7 @@ return {
 		},
 		description = {
 			description = _("SBBHbils_desc"),
-			name = _("Hbis (SBB, Logo schwarz)"),
+			name = _("Hbis (SBB, Logo schwarz) [1975]"),
 		},
 		emission = {
 			idleEmission = -1,

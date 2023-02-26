@@ -583,7 +583,7 @@ return {
 			priceScale = 1,
 		},
 		description = { description = _("SBBHbilsGlatt_desc"),
-			name = _("Hbils-vxy (SBB/Denner)"),
+			name = _("Hbils-vxy (SBB/Denner) [1985]"),
 		},
 		emission = {
 			idleEmission = -1,

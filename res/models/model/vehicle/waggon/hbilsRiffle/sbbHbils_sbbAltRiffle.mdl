@@ -671,7 +671,7 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 1967,
+			yearFrom = 1970,
 			yearTo = 1978,
 		},
 		cost = {
@@ -680,7 +680,7 @@ return {
 		},
 		description = {
 			description = _("SBBHbils_desc"),
-			name = _("Hbis (SBB)"),
+			name = _("Hbis (SBB) [1970]"),
 		},
 		emission = {
 			idleEmission = -1,

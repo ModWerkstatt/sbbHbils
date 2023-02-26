@@ -590,7 +590,7 @@ return {
 		},
 		description = {
 			description = _("SBBHbils_desc"),
-			name = _("Hbis (SBB used)"),
+			name = _("Hbis (SBB used) [1985]"),
 		},
 		emission = {
 			idleEmission = -1,

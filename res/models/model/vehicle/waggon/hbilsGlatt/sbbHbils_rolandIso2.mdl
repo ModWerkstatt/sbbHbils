@@ -679,7 +679,7 @@ return {
 			priceScale = 1,
 		},
 		description = { description = _("SBBHbilsGlatt_desc"),
-			name = _("Hbils-vxy (SBB/Roland Zwieback)"),
+			name = _("Hbils-vxy (SBB/Roland Zwieback) [1985]"),
 		},
 		emission = {
 			idleEmission = -1,

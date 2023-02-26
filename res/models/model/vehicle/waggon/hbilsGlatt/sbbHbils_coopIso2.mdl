@@ -583,7 +583,7 @@ return {
 			priceScale = 1,
 		},
 		description = { description = _("SBBHbilsGlatt_desc"),
-			name = _("Hbils-vxy (SBB/Coop)"),
+			name = _("Hbils-vxy (SBB/Coop) [2000]"),
 		},
 		emission = {
 			idleEmission = -1,

@@ -842,7 +842,7 @@ return {
 		},
 		description = {
 			description = _("SBBHbils_desc"),
-			name = _("Hbis (SBB Cargo D)"),
+			name = _("Hbis (SBB Cargo D) [1978]"),
 		},
 		emission = {
 			idleEmission = -1,

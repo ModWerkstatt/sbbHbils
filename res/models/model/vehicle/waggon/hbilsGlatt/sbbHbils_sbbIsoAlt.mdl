@@ -680,7 +680,7 @@ return {
 		},
 		description = {
 			description = _("SBBHbilsGlatt_desc"),
-			name = _("Hbis-vxy (SBB)"),
+			name = _("Hbis-vxy (SBB) [1972]"),
 		},
 		emission = {
 			idleEmission = -1,

@@ -842,7 +842,7 @@ return {
 		},
 		description = {
 			description = _("SBBHbils_desc"),
-			name = _("Hbis (SBB/Bischofszell)"),
+			name = _("Hbis (SBB/Bischofszell) [1974]"),
 		},
 		emission = {
 			idleEmission = -1,

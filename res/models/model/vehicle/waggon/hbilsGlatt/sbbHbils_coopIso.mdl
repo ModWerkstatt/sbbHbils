@@ -680,7 +680,7 @@ return {
 		},
 		description = {
 			description = _("SBBHbilsGlatt_desc"),
-			name = _("Hbils-vxy (SBB/Coop-Midi)"),
+			name = _("Hbils-vxy (SBB/Coop-Midi) [1976]"),
 		},
 		emission = {
 			idleEmission = -1,

@@ -679,7 +679,7 @@ return {
 			priceScale = 1,
 		},
 		description = { description = _("SBBHbilsGlatt_desc"),
-			name = _("Hbils-vxy (SBB/Migros-Midor)"),
+			name = _("Hbils-vxy (SBB/Migros-Midor) [1979]"),
 		},
 		emission = {
 			idleEmission = -1,

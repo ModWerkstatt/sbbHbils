@@ -583,7 +583,7 @@ return {
 			priceScale = 1,
 		},
 		description = { description = _("SBBHbilsGlatt_desc"),
-			name = _("Hbils-vxy (SBB/Migros-Futura)"),
+			name = _("Hbils-vxy (SBB/Migros-Futura) [1985]"),
 		},
 		emission = {
 			idleEmission = -1,

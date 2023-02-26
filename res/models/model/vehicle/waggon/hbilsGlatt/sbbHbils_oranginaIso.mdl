@@ -583,7 +583,7 @@ return {
 			priceScale = 1,
 		},
 		description = { description = _("SBBHbilsGlatt_desc"),
-			name = _("Hbils-vxy (SBB/Orangina)"),
+			name = _("Hbils-vxy (SBB/Orangina) [1990]"),
 		},
 		emission = {
 			idleEmission = -1,

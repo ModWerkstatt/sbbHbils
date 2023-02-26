@@ -583,7 +583,7 @@ return {
 			priceScale = 1,
 		},
 		description = { description = _("SBBHbils_desc"),
-			name = _("Hbis (SBB/Volg)"),
+			name = _("Hbis (SBB/Volg) [1985]"),
 		},
 		emission = {
 			idleEmission = -1,

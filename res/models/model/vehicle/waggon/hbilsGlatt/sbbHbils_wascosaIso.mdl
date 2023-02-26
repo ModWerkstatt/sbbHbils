@@ -583,7 +583,7 @@ return {
 			priceScale = 1,
 		},
 		description = { description = _("SBBHbilsGlatt_desc"),
-			name = _("Hbils-vxy (Wascosa)"),
+			name = _("Hbils-vxy (Wascosa) [2010]"),
 		},
 		emission = {
 			idleEmission = -1,

@@ -36,7 +36,7 @@ return {
 		cost = {
 			price = 0,
 		},
-		description = { description = _("SBBHbilsGlatt_desc"),
+		description = {
 			name = _("Hbis/Hbils/Hbils-vy (SBB)"),
 		},
 		maintenance = {

@@ -583,7 +583,7 @@ return {
 			priceScale = 1,
 		},
 		description = { description = _("SBBHbilsGlatt_desc"),
-			name = _("Hbils-vxy (SBB Blank)"),
+			name = _("Hbils-vxy (SBB Blank) [2000]"),
 		},
 		emission = {
 			idleEmission = -1,

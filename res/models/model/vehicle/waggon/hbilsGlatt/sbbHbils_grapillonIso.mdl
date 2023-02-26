@@ -679,7 +679,7 @@ return {
 			priceScale = 1,
 		},
 		description = { description = _("SBBHbilsGlatt_desc"),
-			name = _("Hbils-vxy (SBB/Grapillon)"),
+			name = _("Hbils-vxy (SBB/Grapillon) [1976]"),
 		},
 		emission = {
 			idleEmission = -1,
