@@ -30,7 +30,7 @@ local model_icons = {
 						"ui/models_20/vehicle/waggon/hbilsGlatt/sbbHbils_sbbIso@2x.tga",
 						"ui/models_20/vehicle/waggon/hbilsGlatt/sbbHbils_sbbIso2@2x.tga",
 						"ui/models_20/vehicle/waggon/hbilsGlatt/sbbHbils_sbbIsoAlt@2x.tga",
-						"ui/models_20/vehicle/waggon/hbilsGlatt/sbbHbils_sbbIsoAlt@2x.tga",
+						"ui/models_20/vehicle/waggon/hbilsGlatt/sbbHbils_sbbIsoUsed@2x.tga",
 						"ui/models_20/vehicle/waggon/hbilsGlatt/sbbHbils_schweppesIso@2x.tga",
 						"ui/models_20/vehicle/waggon/hbilsGlatt/sbbHbils_usego@2x.tga",
 						"ui/models_20/vehicle/waggon/hbilsGlatt/sbbHbils_wascosaIso@2x.tga",
@@ -78,7 +78,7 @@ local model_values = {
 						"asset/hbilsGlatt/sbbHbils_sbbIso.mdl",
 						"asset/hbilsGlatt/sbbHbils_sbbIso2.mdl",
 						"asset/hbilsGlatt/sbbHbils_sbbIsoAlt.mdl",
-						"asset/hbilsGlatt/sbbHbils_sbbIsoAlt.mdl",
+						"asset/hbilsGlatt/sbbHbils_sbbIsoUsed.mdl",
 						"asset/hbilsGlatt/sbbHbils_schweppesIso.mdl",
 						"asset/hbilsGlatt/sbbHbils_usegoIso.mdl",
 						"asset/hbilsGlatt/sbbHbils_wascosaIso.mdl",
@@ -109,7 +109,7 @@ return {
 	},
 	availability =
 	{
-			yearFrom = 1978,
+			yearFrom = 1968,
 			yearTo = 0,
 	},
 	buildMode = "MULTI",
